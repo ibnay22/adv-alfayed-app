@@ -1,0 +1,20 @@
+{
+  "name": "adv-alfayed-practice-manager",
+  "private": true,
+  "version": "4.0.0",
+  "type": "module",
+  "description": "AI Legal Practice Manager for Adv. Alfayed, Mathabhanga Subdivision Court",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
